@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:black;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 140px;
+}
+form{
+    display:grid;
+    justify-content: space-evenly;
+    color: white;
+    border: 3px solid white;
+    width:260px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+input{
+    height: 35px;
+}
